@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+
+}
+
+a{
+ text-decoration: none;
+}
+
+nav{
+  margin-bottom: 5%;
+}
+
+.my-1{
+  background-color: white;
+  padding: 50px;
+  width: 30%;
+  float: left;
+  border-radius: 10px;
+  margin-left: 2%;
+}
+
+.table{
+  background: white;
+  width: 60%;
+  padding: 30px;
+  float: right;
+  margin: 0px;
+  border-radius: 10px;
+  margin-right: 2%;
+}
+.table table{
+  width: 100%;
+}
